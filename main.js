@@ -5,7 +5,6 @@ const {
 } = require('./config.json');
 
 const client = new Discord.Client();
-const ytdl = require('ytdl-core');
 
 randomNumber = -540125133512;
 
