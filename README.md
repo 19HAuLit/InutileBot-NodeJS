@@ -1,1 +1,3 @@
 # InutileBot-NodeJS
+
+Bot discord ne servant pas à grand chose...
